@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![asdf](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/henrihu/henrihu-CI-1500x500.png)][1]
 
 [![GitHub Views123](https://komarev.com/ghpvc/?username=henrihu&color=FAC151)][1]
+[![Ruby on Rails](https://img.shields.io/badge/Ruby-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/ruby)
 [![typescript123](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/henrihu)
 [![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
-[![youtuberasdf]()][11]
+
 
 Hey 👋🏻,
 
@@ -31,53 +31,32 @@ You can see what I am currently up to on [Ruby Dream Realizer][1].
 
 ## 📬 Get in touch
 
+- Email: [ruby.devraptor.00@yandex.com][11]
+- Skype: [live:.cid.a2748463e7d46ff2][4]
+- Phone: [blog.henrihu.me][4]
 - Web: [henrihu.me][1]
 - LinkedIn: [linkedin.com/in/henrihu][2]
 - Twitter: [twitter.com/henrihu][3]
-- Blog: [blog.henrihu.me][4]
-- YouTube: [youtube.com/henrihu][11]
-- Other Channels:
-  - [dev.to/henrihu][10]
-  - [medium.com/@henrihu][6]
-  - [hashnode.com/@henrihu][7]
 
-👉🏻👉🏻📧 Sign up for my [newsletter][5].
+## 🌳 My Research Area
 
-## 🌳 My Digital Garden
+My Research range from Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue, Angular, Java, Swift, React-Native, Flutter, Mysql, Postgres, MongoDB, and I have 8+ years of experience.
 
-You can find my blog posts on [blog.henrihu.me][4]. I write about things I
-am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
-**NodeJS**. I also do reviews of software and hardware.
-
-## 🤜🏻🤛🏻 Support Me
-
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Start Over Again and Unmute All Twitter Users.](https://blog.henrihu.me/start-over-again-and-unmute-all-twitter-users)
-- [How to Use Multiple Node Version With asdf.](https://blog.henrihu.me/how-to-use-multiple-node-version-with-asdf)
-- [Git: Automatically Lint Your Code or Run Tests on `git push` with Git Hooks](https://blog.henrihu.me/git-automatically-lint-your-code-or-run-tests-on-git-push-with-git-hooks)
-- [How to Dockerize a NextJS application](https://blog.henrihu.me/how-to-dockerize-a-nextjs-application)
-- [My Favorite Visual Studio Code Extensions - Part I](https://blog.henrihu.me/my-favorite-visual-studio-code-extensions-part-i)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://blog.henrihu.me)
-
-## 📺 Latest YouTube Videos
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaKtbjfNtWRulKg6VlYd8kw?label=YouTube%20Subscribers&style=social)
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Setup nodemon in a Docker and TypeScript App | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=Fw5-8OJ6Qy8)
-- [Grafana Dashboard with Node-Cron | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=ESXUT9dGM60)
-- [How to use rtk-query in a Next.js app](https://www.youtube.com/watch?v=GRhnLRbRCvM)
-- [How to Create a Resume with Tailwind and Nextjs - Part 2](https://www.youtube.com/watch?v=pRXjx1UmYyU)
-- [How to Create a Resume with TailwindUI and Next.js - PART 1](https://www.youtube.com/watch?v=YA1hzqfv2i8)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-➡️ [more videos...](https://youtube.com/henrihu)
+<a href="https://github.com/ruby/" rel="nofollow"><img alt="Ruby" title="Ruby" src="https://avatars.githubusercontent.com/u/210414?s=200&v=4" height="42" style="max-width: 100%;"></a>
+<a href="https://rubyonrails.org/" rel="nofollow"><img alt="Ruby on Rails" title="Ruby on Rails" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" height="42" style="max-width: 100%;"></a>
+<a href="https://python.org" rel="nofollow"><img alt="Python" title="Python" src="https://camo.githubusercontent.com/c343a78a58348e27b2a7eb993e81ed2854686c98b813c55045971431c4751543/68747470733a2f2f746f70736b696c6c2e6465762f6c6f676f732f707974686f6e2e706e67" height="42" data-canonical-src="https://topskill.dev/logos/python.png" style="max-width: 100%;"></a>
+<a href="https://www.djangoproject.com/" rel="nofollow"><img alt="Django" title="Django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" height="42" style="max-width: 100%;"></a>
+<a href="https://laravel.com" rel="nofollow"><img alt="Laravel" title="Laravel" src="https://camo.githubusercontent.com/a9b90bc1fb6f21e54eb127185c89efbe548dd64ca38d0d88832c8157e7237f6f/68747470733a2f2f746f70736b696c6c2e6465762f6c6f676f732f6c61726176656c2e706e67" height="42" data-canonical-src="https://topskill.dev/logos/laravel.png" style="max-width: 100%;"></a>
+<a href="https://nodejs.org" rel="nofollow"><img alt="Node.js" title="Node.js" src="https://camo.githubusercontent.com/ca24c1328f0643d2d421179dfcc9117d97accbdca003a056e8c2514043ac30d8/68747470733a2f2f746f70736b696c6c2e6465762f6c6f676f732f6e6f64656a732e706e67" height="42" data-canonical-src="https://topskill.dev/logos/nodejs.png" style="max-width: 100%;"></a>
+<a href="https://reactjs.org" rel="nofollow"><img alt="React.js" title="React.js" src="https://camo.githubusercontent.com/da8d9f43bad7c1666c80f203fbdd9821e9297cd3e1b8a59de94e52d6c28d7fc1/68747470733a2f2f746f70736b696c6c2e6465762f6c6f676f732f72656163742e706e67" height="42" data-canonical-src="https://topskill.dev/logos/react.png" style="max-width: 100%;"></a>
+<a href="https://vuejs.org" rel="nofollow"><img alt="Vue.js" title="Vue.js" src="https://camo.githubusercontent.com/65542e13484299a07d4c0071f289f9cf4aca734f65bf50b6f14d936d873b04e6/68747470733a2f2f746f70736b696c6c2e6465762f6c6f676f732f7675652e706e67" height="42" data-canonical-src="https://topskill.dev/logos/vue.png" style="max-width: 100%;"></a>
+<a href="https://angular.io/" rel="nofollow"><img alt="Angular" title="Agnular" src="https://github.com/todaycodemaster/logos/raw/master/angular.png" height="42" style="max-width: 100%;"></a>
+<a href="https://java.com" rel="nofollow"><img alt="Java" title="Java" src="https://camo.githubusercontent.com/9fa4067625003e366edfe604497b36ea785bce21b2f9a7bf4649f56a0b0ba799/68747470733a2f2f746f70736b696c6c2e6465762f6c6f676f732f6a6176612e706e67" height="42" data-canonical-src="https://topskill.dev/logos/java.png" style="max-width: 100%;"></a>
+<a href="https://www.android.com/" rel="nofollow"><img alt="Android" title="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" height="42" data-canonical-src="https://topskill.dev/logos/java.png" style="max-width: 100%;"></a>
+<a href="https://www.mysql.com" rel="nofollow"><img alt="Python" title="Mysql" src="https://github.com/todaycodemaster/logos/raw/master/mysql.png" height="42" style="max-width: 100%;"></a>
+<a href="https://www.postgresql.org" rel="nofollow"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/todaycodemaster/logos/raw/master/postgresql.png" height="42" style="max-width: 100%;"></a>
+<a href="https://www.mongodb.com/" rel="nofollow"><img alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="42" style="max-width: 100%;"></a>
+<a href="https://codeigniter.com/" rel="nofollow"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/todaycodemaster/logos/raw/master/ci.png" height="42" style="max-width: 100%;"></a>
 
 ## :zap: Recent Activity
 
@@ -99,11 +78,10 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrihu&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="henrihu's GitHub Stats" />
 </a>
 
-[1]:
-  https://henrihu.me/?utm_source=github.com&utm_medium=gh-profile-henrihu&utm_campaign=henrihu
+[1]: https://www.ignitiveinfotech.com
 [2]: https://www.linkedin.com/in/henrihu
 [3]: https://twitter.com/intent/follow?screen_name=henrihu
-[4]: https://blog.henrihu.me
+[4]: live:.cid.a2748463e7d46ff2
 [5]:
   https://newsletter.henrihu.me?utm_source=github.com&utm_medium=gh-profile-henrihu&utm_campaign=henrihu
 [6]: https://medium.com/@henrihu
@@ -111,4 +89,4 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 [8]: https://nttr.st/2QoQhEb
 [9]: https://nttr.st/2YEatXb
 [10]: https://dev.to/henrihu
-[11]: fhttps://www.youtube.com/henrihu?sub_confirmation=1
+[11]: jak.seo.11@gmail.com
