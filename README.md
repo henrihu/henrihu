@@ -54,7 +54,8 @@ You can see what I am currently up to on [Ignitive Infotech][1].
 
 ## 📬 Get in touch
 
-- Email: [ruby.devraptor.00@yandex.com](mailto:ruby.devraptor.00@yandex.com)
+- Yandex: [ruby.devraptor.00@yandex.com](mailto:ruby.devraptor.00@yandex.com)
+- Gmail: [jak.seo.11@gmail.com](mailto:jak.seo.11@gmail.com)
 - Skype: [live:.cid.a2748463e7d46ff2](live:.cid.a2748463e7d46ff2)
 - Web: [ignitiveinfotech.com][5]
 - LinkedIn: [linkedin.com/in/henrihu][2]
