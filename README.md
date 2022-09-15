@@ -13,39 +13,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![asdf](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
+[![asdf](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/henrihu/henrihu-CI-1500x500.png)][1]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
-[![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
+[![GitHub Views123](https://komarev.com/ghpvc/?username=henrihu&color=FAC151)][1]
+[![typescript123](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/henrihu)
 [![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
-[![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
+[![youtuberasdf]()][11]
 
 Hey 👋🏻,
 
-I am CEO and Co-Founder of marqant digital and Software Engineer from Austria
-🇦🇹. I am interested in, write about, and develop (open source) software solutions
-using JavaScript, TypeScript, ReactJS, and NodeJS.
+I am Ruby on Rails Export and Software Engineer from Ignitive Infotech
+🇦🇹. I am interested in, write about, and develop software solutions
+using Ruby, JavaScript, TypeScript, ReactJS, and NodeJS.
 
-You can see what I am currently up to on [natterstefan.me][1].
+You can see what I am currently up to on [Ruby Dream Realizer][1].
 
 ## 📬 Get in touch
 
-- Web: [natterstefan.me][1]
-- LinkedIn: [linkedin.com/in/natterstefan][2]
-- Twitter: [twitter.com/natterstefan][3]
-- Blog: [blog.natterstefan.me][4]
-- YouTube: [youtube.com/natterstefan][11]
+- Web: [henrihu.me][1]
+- LinkedIn: [linkedin.com/in/henrihu][2]
+- Twitter: [twitter.com/henrihu][3]
+- Blog: [blog.henrihu.me][4]
+- YouTube: [youtube.com/henrihu][11]
 - Other Channels:
-  - [dev.to/natterstefan][10]
-  - [medium.com/@natterstefan][6]
-  - [hashnode.com/@natterstefan][7]
+  - [dev.to/henrihu][10]
+  - [medium.com/@henrihu][6]
+  - [hashnode.com/@henrihu][7]
 
 👉🏻👉🏻📧 Sign up for my [newsletter][5].
 
 ## 🌳 My Digital Garden
 
-You can find my blog posts on [blog.natterstefan.me][4]. I write about things I
+You can find my blog posts on [blog.henrihu.me][4]. I write about things I
 am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 **NodeJS**. I also do reviews of software and hardware.
 
@@ -56,14 +56,14 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Start Over Again and Unmute All Twitter Users.](https://blog.natterstefan.me/start-over-again-and-unmute-all-twitter-users)
-- [How to Use Multiple Node Version With asdf.](https://blog.natterstefan.me/how-to-use-multiple-node-version-with-asdf)
-- [Git: Automatically Lint Your Code or Run Tests on `git push` with Git Hooks](https://blog.natterstefan.me/git-automatically-lint-your-code-or-run-tests-on-git-push-with-git-hooks)
-- [How to Dockerize a NextJS application](https://blog.natterstefan.me/how-to-dockerize-a-nextjs-application)
-- [My Favorite Visual Studio Code Extensions - Part I](https://blog.natterstefan.me/my-favorite-visual-studio-code-extensions-part-i)
+- [Start Over Again and Unmute All Twitter Users.](https://blog.henrihu.me/start-over-again-and-unmute-all-twitter-users)
+- [How to Use Multiple Node Version With asdf.](https://blog.henrihu.me/how-to-use-multiple-node-version-with-asdf)
+- [Git: Automatically Lint Your Code or Run Tests on `git push` with Git Hooks](https://blog.henrihu.me/git-automatically-lint-your-code-or-run-tests-on-git-push-with-git-hooks)
+- [How to Dockerize a NextJS application](https://blog.henrihu.me/how-to-dockerize-a-nextjs-application)
+- [My Favorite Visual Studio Code Extensions - Part I](https://blog.henrihu.me/my-favorite-visual-studio-code-extensions-part-i)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blog.natterstefan.me)
+➡️ [more blog posts...](https://blog.henrihu.me)
 
 ## 📺 Latest YouTube Videos
 
@@ -77,38 +77,38 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
 - [How to Create a Resume with TailwindUI and Next.js - PART 1](https://www.youtube.com/watch?v=YA1hzqfv2i8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-➡️ [more videos...](https://youtube.com/natterstefan)
+➡️ [more videos...](https://youtube.com/henrihu)
 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/skirsten/next-env-cli/pull/1) in [skirsten/next-env-cli](https://github.com/skirsten/next-env-cli)
-2. 🎉 Merged PR [#8](https://github.com/natterstefan/github-actions-playground/pull/8) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
-3. 💪 Opened PR [#8](https://github.com/natterstefan/github-actions-playground/pull/8) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
-4. ❗️ Opened issue [#7](https://github.com/natterstefan/github-actions-playground/issues/7) in [natterstefan/github-actions-playground](https://github.com/natterstefan/github-actions-playground)
-5. ❗️ Opened issue [#72](https://github.com/natterstefan/eslint-config-ns/issues/72) in [natterstefan/eslint-config-ns](https://github.com/natterstefan/eslint-config-ns)
+2. 🎉 Merged PR [#8](https://github.com/henrihu/github-actions-playground/pull/8) in [henrihu/github-actions-playground](https://github.com/henrihu/github-actions-playground)
+3. 💪 Opened PR [#8](https://github.com/henrihu/github-actions-playground/pull/8) in [henrihu/github-actions-playground](https://github.com/henrihu/github-actions-playground)
+4. ❗️ Opened issue [#7](https://github.com/henrihu/github-actions-playground/issues/7) in [henrihu/github-actions-playground](https://github.com/henrihu/github-actions-playground)
+5. ❗️ Opened issue [#72](https://github.com/henrihu/eslint-config-ns/issues/72) in [henrihu/eslint-config-ns](https://github.com/henrihu/eslint-config-ns)
 <!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=000000&text_color=000000" />
+<a href="https://github.com/henrihu/henrihu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrihu&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
-<a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
+<a href="https://github.com/henrihu/henrihu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrihu&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="henrihu's GitHub Stats" />
 </a>
 
 [1]:
-  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[2]: https://www.linkedin.com/in/natterstefan
-[3]: https://twitter.com/intent/follow?screen_name=natterstefan
-[4]: https://blog.natterstefan.me
+  https://henrihu.me/?utm_source=github.com&utm_medium=gh-profile-henrihu&utm_campaign=henrihu
+[2]: https://www.linkedin.com/in/henrihu
+[3]: https://twitter.com/intent/follow?screen_name=henrihu
+[4]: https://blog.henrihu.me
 [5]:
-  https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[6]: https://medium.com/@natterstefan
-[7]: https://hashnode.com/@natterstefan
+  https://newsletter.henrihu.me?utm_source=github.com&utm_medium=gh-profile-henrihu&utm_campaign=henrihu
+[6]: https://medium.com/@henrihu
+[7]: https://hashnode.com/@henrihu
 [8]: https://nttr.st/2QoQhEb
 [9]: https://nttr.st/2YEatXb
-[10]: https://dev.to/natterstefan
-[11]: fhttps://www.youtube.com/natterstefan?sub_confirmation=1
+[10]: https://dev.to/henrihu
+[11]: fhttps://www.youtube.com/henrihu?sub_confirmation=1
