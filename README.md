@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **henrihu/henrihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![natterstefan](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
+[![asdf](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
