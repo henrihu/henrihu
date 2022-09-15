@@ -12,7 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Fullstack-WEB-Blockchain-Developer&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+</p>
 
+ ![](./profile-3d-contrib/profile-night-view.svg)
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=henrihu&color=FAC151)][1]
 [![Ruby on Rails](https://img.shields.io/badge/Ruby-Fan-FAC151.svg?logo=ruby&logoWidth=20)](https://github.com/ruby)
