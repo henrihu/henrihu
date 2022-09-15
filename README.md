@@ -77,6 +77,12 @@ My Research range from Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=henrihu&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="henrihu's GitHub Stats" />
 </a>
 
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![henrihu snake gif](https://github.com/henrihu/henrihu/blob/output/github-contribution-grid-snake.svg)
+
+
 [1]: https://www.ignitiveinfotech.com
 [2]: https://www.linkedin.com/in/henrihu
 [3]: https://twitter.com/intent/follow?screen_name=henrihu
