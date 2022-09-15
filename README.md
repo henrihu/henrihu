@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Views123](https://komarev.com/ghpvc/?username=henrihu&color=FAC151)][1]
-[![Ruby on Rails](https://img.shields.io/badge/Ruby-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/ruby)
+[![Profile Views](https://komarev.com/ghpvc/?username=henrihu&color=FAC151)][1]
+[![Ruby on Rails](https://img.shields.io/badge/Ruby-Fan-FAC151.svg?logo=ruby&logoWidth=20)](https://github.com/ruby)
 [![typescript123](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/henrihu)
-[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
+[![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][1]
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
 
 
@@ -33,8 +33,7 @@ You can see what I am currently up to on [Ruby Dream Realizer][1].
 
 - Email: [ruby.devraptor.00@yandex.com][11]
 - Skype: [live:.cid.a2748463e7d46ff2][4]
-- Phone: [blog.henrihu.me][4]
-- Web: [henrihu.me][1]
+- Web: [ignitiveinfotech.com][5]
 - LinkedIn: [linkedin.com/in/henrihu][2]
 - Twitter: [twitter.com/henrihu][3]
 
@@ -83,7 +82,7 @@ My Research range from Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue
 [3]: https://twitter.com/intent/follow?screen_name=henrihu
 [4]: live:.cid.a2748463e7d46ff2
 [5]:
-  https://newsletter.henrihu.me?utm_source=github.com&utm_medium=gh-profile-henrihu&utm_campaign=henrihu
+  https://www.ignitiveinfotech.com/service/web-development
 [6]: https://medium.com/@henrihu
 [7]: https://hashnode.com/@henrihu
 [8]: https://nttr.st/2QoQhEb
