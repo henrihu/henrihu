@@ -37,7 +37,7 @@ Hey 👋🏻,
 
 I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
-I'm very familiar with Ruby on Rails | BlockChain |  Web3.js |
+I'm very familiar with | Ruby on Rails | BlockChain |
 
 My major skills are Ruby on Rails web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
