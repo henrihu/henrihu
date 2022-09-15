@@ -15,37 +15,46 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Fullstack-WEB-Blockchain-Developer&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
-
+<!--
  ![](./profile-3d-contrib/profile-night-view.svg)
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
-</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=henrihu&color=FAC151)][1]
 [![Ruby on Rails](https://img.shields.io/badge/Ruby-Fan-FAC151.svg?logo=ruby&logoWidth=20)](https://github.com/ruby)
 [![typescript123](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/henrihu)
 [![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][1]
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
-
+ -->
 
 Hey 👋🏻,
 
-I am Ruby on Rails Export and Software Engineer from Ignitive Infotech
-🇦🇹. I am interested in, write about, and develop software solutions
-using Ruby, JavaScript, TypeScript, ReactJS, and NodeJS.
+I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+
+I'm very familiar with Ruby on Rails | BlockChain |  Web3.js |
+
+My major skills are Ruby on Rails web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
+
+And I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django too.
+
+Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
+
+I had already built so many Websites with the mentioned skill.
 
 You can see what I am currently up to on [Ruby Dream Realizer][1].
 
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+</div>
+
 ## 📬 Get in touch
 
-- Email: [ruby.devraptor.00@yandex.com][11]
-- Skype: [live:.cid.a2748463e7d46ff2][4]
+- Email: [ruby.devraptor.00@yandex.com](mailto:ruby.devraptor.00@yandex.com)
+- Skype: [live:.cid.a2748463e7d46ff2](live:.cid.a2748463e7d46ff2)
 - Web: [ignitiveinfotech.com][5]
 - LinkedIn: [linkedin.com/in/henrihu][2]
 - Twitter: [twitter.com/henrihu][3]
 
-## 🌳 My Research Area
+## 💗 My Favorites Techs
 
 My Research range from Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue, Angular, Java, Swift, React-Native, Flutter, Mysql, Postgres, MongoDB, and I have 8+ years of experience.
 
