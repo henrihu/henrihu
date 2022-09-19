@@ -36,7 +36,7 @@ Hey 👋🏻,
 
 I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
-I'm very familiar with | Ruby on Rails | BlockChain |
+I'm very familiar with Ruby on Rails | BlockChain.
 
 My major skills are Ruby on Rails web and BlockChain development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
@@ -54,7 +54,7 @@ You can see what I am currently up to on [Ignitive Infotech][1].
 
 ## 📬 Get in touch
 
-- Yandex: [ruby.devraptor.00@yandex.com](mailto:ruby.devraptor.00@yandex.com)
+- Outlook: [ruby.devraptor.00@outlook.com](mailto:ruby.devraptor.00@outlook.com)
 - Gmail: [jak.seo.11@gmail.com](mailto:jak.seo.11@gmail.com)
 - Skype: [live:.cid.a2748463e7d46ff2](live:.cid.a2748463e7d46ff2)
 - Web: [ignitiveinfotech.com][5]
