@@ -52,11 +52,6 @@ You can see what I am currently up to on [Ignitive Infotech][1].
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 </div>
 
-## 📬 Get in touch
-
-- Mail: [itcruiser00@gmail.com](mailto:itcruiser00@gmail.com)
-- Skype: [live:.cid.a2748463e7d46ff2](live:.cid.a2748463e7d46ff2)
-
 ## 💗 My Favorites Techs
 
 My Research range from Ruby On Rails, Django, PHP(CI, Laravel), Node, React, Vue, Angular, Java, Swift, React-Native, Flutter, Mysql, Postgres, MongoDB, and I have 8+ years of experience.
