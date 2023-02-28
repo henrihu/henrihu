@@ -34,19 +34,17 @@ Here are some ideas to get you started:
 
 Hey 👋🏻,
 
-I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+I'm a Independent Senior Web engineer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
-I'm very familiar with Ruby on Rails | BlockChain.
+I'm very familiar with Ruby on Rails | React | BlockChain.
 
 My major skills are Ruby on Rails web and BlockChain development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
-And I have developing sites using React, Nextjs, Laravel, WordPress, and Python/Django too.
+And I have developing sites using React, Vue, Laravel, WordPress, and Python/Django too.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
+Especially I have rich experience with the latest Javascript frameworks such as Nextjs, Nuxtjs, Nestjs.
 
 I had already built so many Websites with the mentioned skill.
-
-You can see what I am currently up to on [Ignitive Infotech][1].
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
